@@ -1,0 +1,23 @@
+
+.title{
+  padding: 20px ;
+
+}
+.im{
+  padding: 20px ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+
+}
+.red {
+  color: #2d808f;
+}
+.display{
+display: block;}
