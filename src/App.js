@@ -8,7 +8,9 @@ function App() {
     <div className="container">
        <div style={{border:"solid 1px black",maxwidth:"100vw"}}> 
        <h1 className ="title red">Hey it's Me, Roua!</h1>
+       <br/>
        <img src="/imageInPublic.jpg"   alt="tripp" style={{width:"175px" }} className ="im"/ >
+       <br/>
        <img src={trip}  alt="trip" style={{width:"250px"}} className ="im "/ >
        </div>
        <video width="320"  controls className ="im">
